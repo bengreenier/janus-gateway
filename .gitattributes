@@ -1,1 +1,3 @@
+
+*.txt text eol=lf
 *.mulaw binary
